@@ -1,0 +1,2 @@
+Hostname:marvin
+PuppetMaster:puppet.zeus.local
